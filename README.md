@@ -2,6 +2,8 @@
 
 Welcome to the Create Business Card ReactJS repository! This repository contains a simple web application built with ReactJS that allows users to create customized business cards. It provides an intuitive interface for designing business cards with various styles, colors, and text options.
 
+https://github.com/gianniszisakis/Create-Business-Card-ReactJS/assets/47507065/e755f9c3-b783-4fa2-9494-a0c65bb95e0f
+
 ## Features
 
 - **Customizable Design**: Design your business card with customizable styles, colors, and text options.
